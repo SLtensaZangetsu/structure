@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const dotenv = require('dotenv');
 dotenv.config();
+const mongoose = require('./db/connect');
 const userRoutes = require('./routes/userRoutes');
 
 const port = process.env.PORT || 3000;
