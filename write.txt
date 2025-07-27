@@ -1,0 +1,7 @@
+#1st commit
+added README.md
+
+#2nd commit 
+index.js >> added express skeleton and imported routes
+.env >> added the port 
+/routes >> userRouter >> added basic router skeleton 
