@@ -15,5 +15,8 @@
     "url": "https://github.com/SLtensaZangetsu/structure/issues"
   },
   "homepage": "https://github.com/SLtensaZangetsu/structure#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
